@@ -136,13 +136,12 @@ Updated every second using JavaScript timers.
 
 -----
 ## 📸 Screenshots
-```
-
-![Home Page](https://raw.githubusercontent.com/Tejaswidarsi/Food-Expiry-Tracker-Using-Blockchain/main/screenshots/add.png)
 
 
+![UI Page](screenshots/home.png) | ![Function Page](screenshots/add.png)  
 
-```
+
+
 
 ----
 ## 🚧 Future Enhancements
